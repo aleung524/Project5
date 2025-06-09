@@ -11,10 +11,15 @@ body {
     letter-spacing: normal;
 }
 
-p {
-    margin: 20px 20px 20px 20px;
+section {
+  background-color: #454545; 
+  color: #fdfaf5
 }
 
+p {
+  margin: 20px 20px 30px 20px;
+}
+  
 h1 {
   color: #0054A8;
   font-family: Montserrat, sans-serif;
@@ -32,7 +37,7 @@ h2 {
 }
 
 h3 {
-  color: #520052;
+  color: #FFDBFF;
   font-family: Roboto, sans-serif;
   margin: 10px 20px 5px 20px;
   font-size: 25px;
