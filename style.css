@@ -5,7 +5,7 @@ body {
     margin: 20;
     padding: 10;
     line-height: 1.25;
-    width: 50em;
+    width: auto;
     font-size: 15px;
     text-align: left;
     letter-spacing: normal;
@@ -40,7 +40,7 @@ h3 {
 
 iframe {
   max-width: 100%;  
-  margin: 5px 20px 10px 20px;
+  margin: 5px 5px 5px 20px;
 }
 
 footer {
